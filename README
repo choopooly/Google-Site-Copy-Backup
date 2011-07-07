@@ -1,0 +1,12 @@
+GOOGLE SITE COPY BACKUP
+
+Just a small backup script for Google Site which use the Google Sites API with Python library.
+It makes a copy of your sites
+http://code.google.com/intl/fr-CA/apis/sites/docs/1.0/developers_guide_python.html
+
+1. Create a "backup" user in your domain (it must be owner for all sites you want to backup).
+2. Edit username/pass/domain
+3. Launch he script with your Site name in parameter. (eg. python google-site-copy-backup.py my_site)
+
+
+
